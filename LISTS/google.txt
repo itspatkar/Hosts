@@ -1,0 +1,895 @@
+# Title: Google
+# Homepage: https://github.com/itspatkar/Hosts
+
+# === LOCAL HOST === #
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+
+# === START === #
+0.0.0.0  1e100.net       # Google Cookies
+0.0.0.0  466453.com        # Google
+0.0.0.0  abc.xyz
+0.0.0.0  admob.com       # AdMob
+0.0.0.0  adsense.com       # AdSense
+0.0.0.0  adservice.google.com
+0.0.0.0  adwords.com       # AdWords
+0.0.0.0  android.com       # Android
+0.0.0.0  blogger.com       # Blogger
+0.0.0.0  blogspot.com      # Blogger
+0.0.0.0  chrome.com        # Google Chrome
+0.0.0.0  chromebook.com      # Chromebook
+0.0.0.0  chromium.org      # Chromium
+0.0.0.0  cobrasearch.com     # Google
+0.0.0.0  com.google        # elgooG
+0.0.0.0  domains.google      # Google Domains
+0.0.0.0  doubleclick.com     # DoubleClick
+0.0.0.0  feedburner.com      # FeedBurner
+0.0.0.0  firehunt.com      # Google
+0.0.0.0  foofle.com        # Google
+0.0.0.0  froogle.com       # Froogle
+0.0.0.0  g.cn   # China
+0.0.0.0  g.cn   # China 
+0.0.0.0  g.co          # Google
+0.0.0.0  ggoogle.com       # Google
+0.0.0.0  ggpht.com       # Google Photo
+0.0.0.0  gmail.com       # Gmail
+0.0.0.0  gmodules.com      # Google
+0.0.0.0  gogle.com       # Google
+0.0.0.0  gogole.com        # Google
+0.0.0.0  goo.gl          # Google URL Shortener
+0.0.0.0  googel.com        # Google
+0.0.0.0  googil.com        # Google
+0.0.0.0  googl.com       # Google
+0.0.0.0  google-analytics.com  # Google Analytics
+0.0.0.0  google.ac  # Ascension Island
+0.0.0.0  google.ac  # Ascension Island 
+0.0.0.0  google.ad  # Andorra
+0.0.0.0  google.ad  # Andorra 
+0.0.0.0  google.ae  # United Arab Emirates
+0.0.0.0  google.ae  # United Arab Emirates 
+0.0.0.0  google.al  # Albania
+0.0.0.0  google.al  # Albania 
+0.0.0.0  google.am  # Armenia
+0.0.0.0  google.am  # Armenia 
+0.0.0.0  google.as  # American Samoa
+0.0.0.0  google.as  # American Samoa 
+0.0.0.0  google.at  # Austria
+0.0.0.0  google.at  # Austria 
+0.0.0.0  google.az  # Azerbaijan
+0.0.0.0  google.az  # Azerbaijan 
+0.0.0.0  google.ba  # Bosnia and Herzegovina
+0.0.0.0  google.ba  # Bosnia and Herzegovina 
+0.0.0.0  google.be  # Belgium
+0.0.0.0  google.be  # Belgium 
+0.0.0.0  google.bf  # Burkina Faso
+0.0.0.0  google.bf  # Burkina Faso 
+0.0.0.0  google.bg  # Bulgaria
+0.0.0.0  google.bg  # Bulgaria 
+0.0.0.0  google.bi  # Burundi
+0.0.0.0  google.bi  # Burundi 
+0.0.0.0  google.bj  # Benin
+0.0.0.0  google.bj  # Benin 
+0.0.0.0  google.bs  # Bahamas
+0.0.0.0  google.bs  # Bahamas 
+0.0.0.0  google.bt  # Bhutan
+0.0.0.0  google.bt  # Bhutan 
+0.0.0.0  google.by  # Belarus
+0.0.0.0  google.ca  # Canada
+0.0.0.0  google.ca  # Canada 
+0.0.0.0  google.cat  # Catalonia Catalan Countries
+0.0.0.0  google.cat  # Catalonia Catalan Countries 
+0.0.0.0  google.cc  # Cocos (Keeling) Islands
+0.0.0.0  google.cc  # Cocos (Keeling) Islands 
+0.0.0.0  google.cd  # Democratic Republic of the Congo
+0.0.0.0  google.cd  # Democratic Republic of the Congo 
+0.0.0.0  google.cf  # Central African Republic
+0.0.0.0  google.cf  # Central African Republic 
+0.0.0.0  google.cg  # Republic of the Congo
+0.0.0.0  google.cg  # Republic of the Congo 
+0.0.0.0  google.ch  # Switzerland
+0.0.0.0  google.ch  # Switzerland 
+0.0.0.0  google.ci  # Ivory Coast
+0.0.0.0  google.ci  # Ivory Coast 
+0.0.0.0  google.cl  # Chile
+0.0.0.0  google.cl  # Chile 
+0.0.0.0  google.cm  # Cameroon
+0.0.0.0  google.cm  # Cameroon 
+0.0.0.0  google.cn  # China
+0.0.0.0  google.cn  # China 
+0.0.0.0  google.co.ao # Angola
+0.0.0.0  google.co.ao # Angola 
+0.0.0.0  google.co.bw # Botswana
+0.0.0.0  google.co.bw # Botswana 
+0.0.0.0  google.co.ck # Cook Islands
+0.0.0.0  google.co.ck # Cook Islands 
+0.0.0.0  google.co.cr # Costa Rica
+0.0.0.0  google.co.cr # Costa Rica 
+0.0.0.0  google.co.id # Indonesia
+0.0.0.0  google.co.id # Indonesia 
+0.0.0.0  google.co.il # Israel
+0.0.0.0  google.co.il # Israel 
+0.0.0.0  google.co.in # India
+0.0.0.0  google.co.in # India 
+0.0.0.0  google.co.jp # Japan
+0.0.0.0  google.co.jp # Japan 
+0.0.0.0  google.co.ke # Kenya
+0.0.0.0  google.co.ke # Kenya 
+0.0.0.0  google.co.kr # South Korea
+0.0.0.0  google.co.kr # South Korea 
+0.0.0.0  google.co.ls # Lesotho
+0.0.0.0  google.co.ls # Lesotho 
+0.0.0.0  google.co.ma # Morocco
+0.0.0.0  google.co.ma # Morocco 
+0.0.0.0  google.co.mz # Mozambique
+0.0.0.0  google.co.mz # Mozambique 
+0.0.0.0  google.co.nz # New Zealand
+0.0.0.0  google.co.nz # New Zealand 
+0.0.0.0  google.co.th # Thailand
+0.0.0.0  google.co.th # Thailand 
+0.0.0.0  google.co.tz # Tanzania
+0.0.0.0  google.co.tz # Tanzania 
+0.0.0.0  google.co.ug # Uganda
+0.0.0.0  google.co.ug # Uganda 
+0.0.0.0  google.co.uk # United Kingdom
+0.0.0.0  google.co.uk # United Kingdom 
+0.0.0.0  google.co.uz # Uzbekistan
+0.0.0.0  google.co.uz # Uzbekistan 
+0.0.0.0  google.co.ve # Venezuela
+0.0.0.0  google.co.ve # Venezuela 
+0.0.0.0  google.co.vi # United States Virgin Islands
+0.0.0.0  google.co.vi # United States Virgin Islands 
+0.0.0.0  google.co.za # South Africa
+0.0.0.0  google.co.za # South Africa 
+0.0.0.0  google.co.zm # Zambia
+0.0.0.0  google.co.zm # Zambia 
+0.0.0.0  google.co.zw # Zimbabwe
+0.0.0.0  google.com  # United States
+0.0.0.0  google.com  # United States 
+0.0.0.0  google.com  # Worldwide (Original for the United States)
+0.0.0.0  google.com  # Worldwide (Original for the United States) 
+0.0.0.0  google.com.af # Afghanistan
+0.0.0.0  google.com.af # Afghanistan 
+0.0.0.0  google.com.ag # Antigua and Barbuda
+0.0.0.0  google.com.ag # Antigua and Barbuda 
+0.0.0.0  google.com.ai # Anguilla
+0.0.0.0  google.com.ai # Anguilla 
+0.0.0.0  google.com.ar # Argentina
+0.0.0.0  google.com.ar # Argentina 
+0.0.0.0  google.com.au # Australia
+0.0.0.0  google.com.au # Australia 
+0.0.0.0  google.com.bd # Bangladesh
+0.0.0.0  google.com.bd # Bangladesh 
+0.0.0.0  google.com.bh # Bahrain
+0.0.0.0  google.com.bh # Bahrain 
+0.0.0.0  google.com.bn # Brunei
+0.0.0.0  google.com.bn # Brunei 
+0.0.0.0  google.com.bo # Bolivia
+0.0.0.0  google.com.bo # Bolivia 
+0.0.0.0  google.com.br # Brazil
+0.0.0.0  google.com.br # Brazil 
+0.0.0.0  google.com.bz # Belize
+0.0.0.0  google.com.bz # Belize 
+0.0.0.0  google.com.co # Colombia
+0.0.0.0  google.com.co # Colombia 
+0.0.0.0  google.com.cu # Cuba
+0.0.0.0  google.com.cu # Cuba 
+0.0.0.0  google.com.cy # Cyprus
+0.0.0.0  google.com.cy # Cyprus 
+0.0.0.0  google.com.do # Dominican Republic
+0.0.0.0  google.com.do # Dominican Republic 
+0.0.0.0  google.com.ec # Ecuador
+0.0.0.0  google.com.ec # Ecuador 
+0.0.0.0  google.com.eg # Egypt
+0.0.0.0  google.com.eg # Egypt 
+0.0.0.0  google.com.et # Ethiopia
+0.0.0.0  google.com.et # Ethiopia 
+0.0.0.0  google.com.fj # Fiji
+0.0.0.0  google.com.fj # Fiji 
+0.0.0.0  google.com.gh # Ghana
+0.0.0.0  google.com.gh # Ghana 
+0.0.0.0  google.com.gi # Gibraltar
+0.0.0.0  google.com.gi # Gibraltar 
+0.0.0.0  google.com.gt # Guatemala
+0.0.0.0  google.com.gt # Guatemala 
+0.0.0.0  google.com.hk # Hong Kong
+0.0.0.0  google.com.hk # Hong Kong 
+0.0.0.0  google.com.jm # Jamaica
+0.0.0.0  google.com.jm # Jamaica 
+0.0.0.0  google.com.kh # Cambodia
+0.0.0.0  google.com.kh # Cambodia 
+0.0.0.0  google.com.kw # Kuwait
+0.0.0.0  google.com.kw # Kuwait 
+0.0.0.0  google.com.lb # Lebanon
+0.0.0.0  google.com.lb # Lebanon 
+0.0.0.0  google.com.lc # Saint Lucia
+0.0.0.0  google.com.lc # Saint Lucia 
+0.0.0.0  google.com.ly # Libya
+0.0.0.0  google.com.ly # Libya 
+0.0.0.0  google.com.mm # Myanmar
+0.0.0.0  google.com.mm # Myanmar 
+0.0.0.0  google.com.mt # Malta
+0.0.0.0  google.com.mt # Malta 
+0.0.0.0  google.com.mx # Mexico
+0.0.0.0  google.com.mx # Mexico 
+0.0.0.0  google.com.my # Malaysia
+0.0.0.0  google.com.my # Malaysia 
+0.0.0.0  google.com.na # Namibia
+0.0.0.0  google.com.na # Namibia 
+0.0.0.0  google.com.nf # Norfolk Island
+0.0.0.0  google.com.nf # Norfolk Island 
+0.0.0.0  google.com.ng # Nigeria
+0.0.0.0  google.com.ng # Nigeria 
+0.0.0.0  google.com.ni # Nicaragua
+0.0.0.0  google.com.ni # Nicaragua 
+0.0.0.0  google.com.np # Nepal
+0.0.0.0  google.com.np # Nepal 
+0.0.0.0  google.com.om # Oman
+0.0.0.0  google.com.om # Oman 
+0.0.0.0  google.com.pa # Panama
+0.0.0.0  google.com.pa # Panama 
+0.0.0.0  google.com.pe # Peru
+0.0.0.0  google.com.pe # Peru 
+0.0.0.0  google.com.pg # Papua New Guinea
+0.0.0.0  google.com.pg # Papua New Guinea 
+0.0.0.0  google.com.ph # Philippines
+0.0.0.0  google.com.ph # Philippines 
+0.0.0.0  google.com.pk # Pakistan
+0.0.0.0  google.com.pk # Pakistan 
+0.0.0.0  google.com.pr # Puerto Rico
+0.0.0.0  google.com.pr # Puerto Rico 
+0.0.0.0  google.com.py # Paraguay
+0.0.0.0  google.com.py # Paraguay 
+0.0.0.0  google.com.qa # Qatar
+0.0.0.0  google.com.qa # Qatar 
+0.0.0.0  google.com.sa # Saudi Arabia
+0.0.0.0  google.com.sa # Saudi Arabia 
+0.0.0.0  google.com.sb # Solomon Islands
+0.0.0.0  google.com.sb # Solomon Islands 
+0.0.0.0  google.com.sg # Singapore
+0.0.0.0  google.com.sg # Singapore 
+0.0.0.0  google.com.sl # Sierra Leone
+0.0.0.0  google.com.sl # Sierra Leone 
+0.0.0.0  google.com.sv # El Salvador
+0.0.0.0  google.com.sv # El Salvador 
+0.0.0.0  google.com.tj # Tajikistan
+0.0.0.0  google.com.tj # Tajikistan 
+0.0.0.0  google.com.tr # Turkey
+0.0.0.0  google.com.tr # Turkey 
+0.0.0.0  google.com.tw # Taiwan
+0.0.0.0  google.com.tw # Taiwan 
+0.0.0.0  google.com.ua # Ukraine
+0.0.0.0  google.com.ua # Ukraine 
+0.0.0.0  google.com.uy # Uruguay
+0.0.0.0  google.com.uy # Uruguay 
+0.0.0.0  google.com.vc # Saint Vincent and the Grenadines
+0.0.0.0  google.com.vc # Saint Vincent and the Grenadines 
+0.0.0.0  google.com.vn # Vietnam
+0.0.0.0  google.com.vn # Vietnam 
+0.0.0.0  google.cv  # Cape Verde
+0.0.0.0  google.cv  # Cape Verde 
+0.0.0.0  google.cz  # Czech Republic
+0.0.0.0  google.cz  # Czech Republic 
+0.0.0.0  google.de  # Germany
+0.0.0.0  google.de  # Germany 
+0.0.0.0  google.dj  # Djibouti
+0.0.0.0  google.dj  # Djibouti 
+0.0.0.0  google.dk  # Denmark
+0.0.0.0  google.dk  # Denmark 
+0.0.0.0  google.dm  # Dominica
+0.0.0.0  google.dm  # Dominica 
+0.0.0.0  google.dz  # Algeria
+0.0.0.0  google.dz  # Algeria 
+0.0.0.0  google.ee  # Estonia
+0.0.0.0  google.ee  # Estonia 
+0.0.0.0  google.es  # Spain
+0.0.0.0  google.es  # Spain 
+0.0.0.0  google.fi  # Finland
+0.0.0.0  google.fi  # Finland 
+0.0.0.0  google.fm  # Federated States of Micronesia
+0.0.0.0  google.fm  # Federated States of Micronesia 
+0.0.0.0  google.fr  # France
+0.0.0.0  google.fr  # France 
+0.0.0.0  google.ga  # Gabon
+0.0.0.0  google.ga  # Gabon 
+0.0.0.0  google.ge  # Georgia
+0.0.0.0  google.ge  # Georgia 
+0.0.0.0  google.gf  # French Guiana
+0.0.0.0  google.gf  # French Guiana 
+0.0.0.0  google.gg  # Guernsey
+0.0.0.0  google.gg  # Guernsey 
+0.0.0.0  google.gl  # Greenland
+0.0.0.0  google.gl  # Greenland 
+0.0.0.0  google.gm  # Gambia
+0.0.0.0  google.gm  # Gambia 
+0.0.0.0  google.gp  # Guadeloupe
+0.0.0.0  google.gp  # Guadeloupe 
+0.0.0.0  google.gr  # Greece
+0.0.0.0  google.gr  # Greece 
+0.0.0.0  google.gy  # Guyana
+0.0.0.0  google.gy  # Guyana 
+0.0.0.0  google.hn  # Honduras
+0.0.0.0  google.hn  # Honduras 
+0.0.0.0  google.hr  # Croatia
+0.0.0.0  google.hr  # Croatia 
+0.0.0.0  google.ht  # Haiti
+0.0.0.0  google.ht  # Haiti 
+0.0.0.0  google.hu  # Hungary
+0.0.0.0  google.hu  # Hungary 
+0.0.0.0  google.ie  # Ireland
+0.0.0.0  google.ie  # Ireland 
+0.0.0.0  google.im  # Isle of Man
+0.0.0.0  google.im  # Isle of Man 
+0.0.0.0  google.io  # British Indian Ocean Territory
+0.0.0.0  google.io  # British Indian Ocean Territory 
+0.0.0.0  google.iq  # Iraq
+0.0.0.0  google.iq  # Iraq 
+0.0.0.0  google.is  # Iceland
+0.0.0.0  google.is  # Iceland 
+0.0.0.0  google.it  # Italy
+0.0.0.0  google.it  # Italy 
+0.0.0.0  google.je  # Jersey
+0.0.0.0  google.je  # Jersey 
+0.0.0.0  google.jo  # Jordan
+0.0.0.0  google.jo  # Jordan 
+0.0.0.0  google.kg  # Kyrgyzstan
+0.0.0.0  google.kg  # Kyrgyzstan 
+0.0.0.0  google.ki  # Kiribati
+0.0.0.0  google.ki  # Kiribati 
+0.0.0.0  google.kz  # Kazakhstan
+0.0.0.0  google.kz  # Kazakhstan 
+0.0.0.0  google.la  # Laos
+0.0.0.0  google.la  # Laos 
+0.0.0.0  google.li  # Liechtenstein
+0.0.0.0  google.li  # Liechtenstein 
+0.0.0.0  google.lk  # Sri Lanka
+0.0.0.0  google.lk  # Sri Lanka 
+0.0.0.0  google.lt  # Lithuania
+0.0.0.0  google.lt  # Lithuania 
+0.0.0.0  google.lu  # Luxembourg
+0.0.0.0  google.lu  # Luxembourg 
+0.0.0.0  google.lv  # Latvia
+0.0.0.0  google.lv  # Latvia 
+0.0.0.0  google.md  # Moldova
+0.0.0.0  google.md  # Moldova 
+0.0.0.0  google.me  # Montenegro
+0.0.0.0  google.me  # Montenegro 
+0.0.0.0  google.mg  # Madagascar
+0.0.0.0  google.mg  # Madagascar 
+0.0.0.0  google.mk  # Macedonia
+0.0.0.0  google.mk  # Macedonia 
+0.0.0.0  google.ml  # Mali
+0.0.0.0  google.ml  # Mali 
+0.0.0.0  google.mn  # Mongolia
+0.0.0.0  google.mn  # Mongolia 
+0.0.0.0  google.ms  # Montserrat
+0.0.0.0  google.ms  # Montserrat 
+0.0.0.0  google.mu  # Mauritius
+0.0.0.0  google.mu  # Mauritius 
+0.0.0.0  google.mv  # Maldives
+0.0.0.0  google.mv  # Maldives 
+0.0.0.0  google.mw  # Malawi
+0.0.0.0  google.mw  # Malawi 
+0.0.0.0  google.ne  # Niger
+0.0.0.0  google.ne  # Niger 
+0.0.0.0  google.net        # Google
+0.0.0.0  google.nl  # Netherlands
+0.0.0.0  google.nl  # Netherlands 
+0.0.0.0  google.no  # Norway
+0.0.0.0  google.no  # Norway 
+0.0.0.0  google.nr  # Nauru
+0.0.0.0  google.nr  # Nauru 
+0.0.0.0  google.nu  # Niue
+0.0.0.0  google.nu  # Niue 
+0.0.0.0  google.org        # Google.org
+0.0.0.0  google.pl  # Poland
+0.0.0.0  google.pl  # Poland 
+0.0.0.0  google.pn  # Pitcairn Islands
+0.0.0.0  google.pn  # Pitcairn Islands 
+0.0.0.0  google.ps  # Palestine
+0.0.0.0  google.ps  # Palestine 
+0.0.0.0  google.pt  # Portugal
+0.0.0.0  google.pt  # Portugal 
+0.0.0.0  google.ro  # Romania
+0.0.0.0  google.ro  # Romania 
+0.0.0.0  google.rs  # Serbia
+0.0.0.0  google.rs  # Serbia 
+0.0.0.0  google.ru  # Russia
+0.0.0.0  google.ru  # Russia 
+0.0.0.0  google.rw  # Rwanda
+0.0.0.0  google.rw  # Rwanda 
+0.0.0.0  google.sc  # Seychelles
+0.0.0.0  google.sc  # Seychelles 
+0.0.0.0  google.se  # Sweden
+0.0.0.0  google.se  # Sweden 
+0.0.0.0  google.sh  # Saint Helena, Ascension and Tristan da Cunha
+0.0.0.0  google.sh  # Saint Helena, Ascension and Tristan da Cunha 
+0.0.0.0  google.si  # Slovenia
+0.0.0.0  google.si  # Slovenia 
+0.0.0.0  google.sk  # Slovakia
+0.0.0.0  google.sk  # Slovakia 
+0.0.0.0  google.sm  # San Marino
+0.0.0.0  google.sm  # San Marino 
+0.0.0.0  google.sn  # Senegal
+0.0.0.0  google.sn  # Senegal 
+0.0.0.0  google.so  # Somalia
+0.0.0.0  google.so  # Somalia 
+0.0.0.0  google.sr  # Suriname
+0.0.0.0  google.sr  # Suriname 
+0.0.0.0  google.st  # SM-CM-#o TomM-CM-) and PrM-CM--ncipe
+0.0.0.0  google.st  # São Tomé and Príncipe 
+0.0.0.0  google.td  # Chad
+0.0.0.0  google.td  # Chad 
+0.0.0.0  google.tg  # Togo
+0.0.0.0  google.tg  # Togo 
+0.0.0.0  google.tk  # Tokelau
+0.0.0.0  google.tk  # Tokelau 
+0.0.0.0  google.tl  # Timor-Leste
+0.0.0.0  google.tl  # Timor-Leste 
+0.0.0.0  google.tm  # Turkmenistan
+0.0.0.0  google.tm  # Turkmenistan 
+0.0.0.0  google.tn  # Tunisia
+0.0.0.0  google.tn  # Tunisia 
+0.0.0.0  google.to  # Tonga
+0.0.0.0  google.to  # Tonga 
+0.0.0.0  google.tt  # Trinidad and Tobago
+0.0.0.0  google.tt  # Trinidad and Tobago 
+0.0.0.0  google.vg  # British Virgin Islands
+0.0.0.0  google.vg  # British Virgin Islands 
+0.0.0.0  google.vu  # Vanuatu
+0.0.0.0  google.vu  # Vanuatu 
+0.0.0.0  google.ws  # Samoa
+0.0.0.0  google.ws  # Samoa 
+0.0.0.0  googleadapis.l.google.com
+0.0.0.0  googleadservices.com  # Google
+0.0.0.0  googleanalytics.com   # Google Analytics
+0.0.0.0  googleapis.com      # Google
+0.0.0.0  googleapps.com      # Google Apps for Work
+0.0.0.0  googlearth.com      # Google Earth
+0.0.0.0  googleblog.com
+0.0.0.0  googlebot.com     # Google
+0.0.0.0  googlecode.com      # Google Code
+0.0.0.0  googlecommerce.com    # Google
+0.0.0.0  googledrive.com     # Google Drive
+0.0.0.0  googlee.com       # Google
+0.0.0.0  googleearth.com     # Google Earth
+0.0.0.0  googlegroups.com
+0.0.0.0  googlemail.com      # Gmail
+0.0.0.0  googlemaps.com      # Google Maps
+0.0.0.0  googlepagecreator.com # Google Page Creator
+0.0.0.0  googlescholar.com   # Google Scholar
+0.0.0.0  googlesource.com    # Google Developer Source
+0.0.0.0  googlesyndication.com # Google
+0.0.0.0  googletagmanager.com  # Google Analytics
+0.0.0.0  googletagservices.com
+0.0.0.0  googletranslate.com
+0.0.0.0  googleusercontent.com # Google User Content
+0.0.0.0  googleweblight.com
+0.0.0.0  googlezip.net
+0.0.0.0  googlr.com        # Google
+0.0.0.0  goolge.com        # Google
+0.0.0.0  gooogle.com       # Google
+0.0.0.0  gstatic.com
+0.0.0.0  gstatic.org
+0.0.0.0  gstaticadssl.l.google.com
+0.0.0.0  gv.com
+0.0.0.0  gvt1.com
+0.0.0.0  gvt2.com
+0.0.0.0  gvt3.com
+0.0.0.0  id.google.com
+0.0.0.0  igoogle.com       # iGoogle
+0.0.0.0  imasdk.googleapis.com
+0.0.0.0  keyhole.com       # Keyhole
+0.0.0.0  like.com        # Google
+0.0.0.0  localhost.com     # Google
+0.0.0.0  madewithcode.com    # Made with Code
+0.0.0.0  mail-ads.google.com
+0.0.0.0  metric.gstatic.com
+0.0.0.0  panoramio.com     # Panoramio
+0.0.0.0  picasa.com        # Picasa
+0.0.0.0  pki.google    # Google Certificate Authority
+0.0.0.0  plus.google.com     # Google Plus
+0.0.0.0  plus.l.google.com   # Google Plus
+0.0.0.0  plus.sandbox.google.com # Google Plus
+0.0.0.0  plusone.google.com      # Google Plus
+0.0.0.0  safebrowsing.googleapis.com
+0.0.0.0  sketchup.com      # SketchUp
+0.0.0.0  urchin.com        # Google Analytics
+0.0.0.0  waze.com        # Waze
+0.0.0.0  whatbrowser.org     # What Browser?
+0.0.0.0  withgoogle.com      # Google
+0.0.0.0  youtu.be        # YouTube
+0.0.0.0  youtube-nocookie.com  # YouTube
+0.0.0.0  youtube.be
+0.0.0.0  youtube.co.uk
+0.0.0.0  youtube.com       # YouTube
+0.0.0.0  youtube.de
+0.0.0.0  youtube.fr
+0.0.0.0  youtube.nl
+0.0.0.0  youtube.pl
+0.0.0.0  youtubeeducation.com  # YouTube
+0.0.0.0  youtubegaming.com   # YouTube
+0.0.0.0  yt.be         # YouTube
+0.0.0.0  ytimg.com       # YouTube
+0.0.0.0 106946415792181435908.106946415792181435908.b.0.u.plus.google.com
+0.0.0.0 110592494626767488131.110592494626767488131.b.0.u.plus.google.com
+0.0.0.0 116026389150019431055.i.plus.google.com
+0.0.0.0 1e100.net
+0.0.0.0 258707722-lucasfilm.plus.google.com
+0.0.0.0 466453.com
+0.0.0.0 672895242-lucasfilm.plus.google.com
+0.0.0.0 795219116-lucasfilm.plus.google.com
+0.0.0.0 a17-112-152-32.plus.google.com
+0.0.0.0 abc.xyz
+0.0.0.0 about.101437219494613101176.plus.google.com
+0.0.0.0 accounts.youtube.com
+0.0.0.0 acs.plus.google.com
+0.0.0.0 adlog.plus.google.com
+0.0.0.0 admin-dev.youtube.com
+0.0.0.0 admin.youtube.com
+0.0.0.0 admob.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 adsense.com
+0.0.0.0 adserving.plus.google.com
+0.0.0.0 advertisercommunity.com
+0.0.0.0 adwords.com
+0.0.0.0 ai.google
+0.0.0.0 and.come.view-pictures.plus.google.com
+0.0.0.0 android.com
+0.0.0.0 app.plus.google.com
+0.0.0.0 asia-red.plus.google.com
+0.0.0.0 asw2.plus.google.com
+0.0.0.0 au.youtube.com
+0.0.0.0 autos.plus.google.com
+0.0.0.0 baltijos.at.plus.google.com
+0.0.0.0 bdplus.baidu.com
+0.0.0.0 blog.google
+0.0.0.0 blogger.com
+0.0.0.0 blogspot.com
+0.0.0.0 bos-mail2.domains.plus.google.com
+0.0.0.0 bos-mail2.plus.google.coms.plus.google.com
+0.0.0.0 br.youtube.com
+0.0.0.0 browseusers.plus.google.com
+0.0.0.0 bulletin.plus.google.com
+0.0.0.0 capitalg.com
+0.0.0.0 chrome.com
+0.0.0.0 chromebook.com
+0.0.0.0 chromecast.com
+0.0.0.0 chromium.org
+0.0.0.0 cms.youtube.com
+0.0.0.0 cobrasearch.com
+0.0.0.0 com.google
+0.0.0.0 creatoracademy.youtube.com
+0.0.0.0 de.youtube.com
+0.0.0.0 denisepruettphotography.plus.google.com
+0.0.0.0 director.youtube.com
+0.0.0.0 domains.google
+0.0.0.0 doubleclick.com
+0.0.0.0 doubleclickbygoogle.com
+0.0.0.0 duck.com
+0.0.0.0 elgoog.im
+0.0.0.0 es.youtube.com
+0.0.0.0 feedburner.com
+0.0.0.0 foofle.com
+0.0.0.0 fr.plus.google.com
+0.0.0.0 fr.youtube.com
+0.0.0.0 friends.plus.google.com
+0.0.0.0 froogle.com
+0.0.0.0 g.co
+0.0.0.0 gaming.youtube.com
+0.0.0.0 gator719.plus.google.com
+0.0.0.0 ggoogle.com
+0.0.0.0 ggpht.com
+0.0.0.0 gmodules.com
+0.0.0.0 gogle.com
+0.0.0.0 gogole.com
+0.0.0.0 googel.com
+0.0.0.0 googil.com
+0.0.0.0 googl.com
+0.0.0.0 google-analytics.com
+0.0.0.0 google.ac
+0.0.0.0 google.ad
+0.0.0.0 google.ae
+0.0.0.0 google.al
+0.0.0.0 google.am
+0.0.0.0 google.as
+0.0.0.0 google.at
+0.0.0.0 google.az
+0.0.0.0 google.ba
+0.0.0.0 google.be
+0.0.0.0 google.bf
+0.0.0.0 google.bg
+0.0.0.0 google.bi
+0.0.0.0 google.bj
+0.0.0.0 google.bs
+0.0.0.0 google.bt
+0.0.0.0 google.by
+0.0.0.0 google.ca
+0.0.0.0 google.cat
+0.0.0.0 google.cc
+0.0.0.0 google.cd
+0.0.0.0 google.cf
+0.0.0.0 google.cg
+0.0.0.0 google.ch
+0.0.0.0 google.ci
+0.0.0.0 google.cl
+0.0.0.0 google.cm
+0.0.0.0 google.cn
+0.0.0.0 google.co.ao
+0.0.0.0 google.co.bw
+0.0.0.0 google.co.ck
+0.0.0.0 google.co.cr
+0.0.0.0 google.co.id
+0.0.0.0 google.co.il
+0.0.0.0 google.co.in
+0.0.0.0 google.co.jp
+0.0.0.0 google.co.ke
+0.0.0.0 google.co.kr
+0.0.0.0 google.co.ls
+0.0.0.0 google.co.ma
+0.0.0.0 google.co.mz
+0.0.0.0 google.co.nz
+0.0.0.0 google.co.th
+0.0.0.0 google.co.tz
+0.0.0.0 google.co.ug
+0.0.0.0 google.co.uk
+0.0.0.0 google.co.uz
+0.0.0.0 google.co.ve
+0.0.0.0 google.co.vi
+0.0.0.0 google.co.za
+0.0.0.0 google.co.zm
+0.0.0.0 google.co.zw
+0.0.0.0 google.com
+0.0.0.0 google.com.af
+0.0.0.0 google.com.ag
+0.0.0.0 google.com.ai
+0.0.0.0 google.com.ar
+0.0.0.0 google.com.au
+0.0.0.0 google.com.bd
+0.0.0.0 google.com.bh
+0.0.0.0 google.com.bn
+0.0.0.0 google.com.bo
+0.0.0.0 google.com.br
+0.0.0.0 google.com.bz
+0.0.0.0 google.com.co
+0.0.0.0 google.com.cu
+0.0.0.0 google.com.cy
+0.0.0.0 google.com.do
+0.0.0.0 google.com.ec
+0.0.0.0 google.com.eg
+0.0.0.0 google.com.et
+0.0.0.0 google.com.fj
+0.0.0.0 google.com.gh
+0.0.0.0 google.com.gi
+0.0.0.0 google.com.gt
+0.0.0.0 google.com.hk
+0.0.0.0 google.com.jm
+0.0.0.0 google.com.kh
+0.0.0.0 google.com.kw
+0.0.0.0 google.com.lb
+0.0.0.0 google.com.lc
+0.0.0.0 google.com.ly
+0.0.0.0 google.com.mm
+0.0.0.0 google.com.mt
+0.0.0.0 google.com.mx
+0.0.0.0 google.com.my
+0.0.0.0 google.com.na
+0.0.0.0 google.com.ng
+0.0.0.0 google.com.ni
+0.0.0.0 google.com.np
+0.0.0.0 google.com.om
+0.0.0.0 google.com.pa
+0.0.0.0 google.com.pe
+0.0.0.0 google.com.pg
+0.0.0.0 google.com.ph
+0.0.0.0 google.com.pk
+0.0.0.0 google.com.pr
+0.0.0.0 google.com.py
+0.0.0.0 google.com.qa
+0.0.0.0 google.com.sa
+0.0.0.0 google.com.sb
+0.0.0.0 google.com.sg
+0.0.0.0 google.com.sl
+0.0.0.0 google.com.sv
+0.0.0.0 google.com.tj
+0.0.0.0 google.com.tr
+0.0.0.0 google.com.tw
+0.0.0.0 google.com.ua
+0.0.0.0 google.com.uy
+0.0.0.0 google.com.vc
+0.0.0.0 google.com.vn
+0.0.0.0 google.cv
+0.0.0.0 google.cx
+0.0.0.0 google.cz
+0.0.0.0 google.de
+0.0.0.0 google.dj
+0.0.0.0 google.dk
+0.0.0.0 google.dm
+0.0.0.0 google.dz
+0.0.0.0 google.ee
+0.0.0.0 google.es
+0.0.0.0 google.eu
+0.0.0.0 google.fi
+0.0.0.0 google.fm
+0.0.0.0 google.fr
+0.0.0.0 google.ga
+0.0.0.0 google.ge
+0.0.0.0 google.gf
+0.0.0.0 google.gg
+0.0.0.0 google.gl
+0.0.0.0 google.gm
+0.0.0.0 google.gp
+0.0.0.0 google.gr
+0.0.0.0 google.gy
+0.0.0.0 google.hn
+0.0.0.0 google.hr
+0.0.0.0 google.ht
+0.0.0.0 google.hu
+0.0.0.0 google.ie
+0.0.0.0 google.im
+0.0.0.0 google.io
+0.0.0.0 google.iq
+0.0.0.0 google.is
+0.0.0.0 google.it
+0.0.0.0 google.je
+0.0.0.0 google.jo
+0.0.0.0 google.kg
+0.0.0.0 google.ki
+0.0.0.0 google.kz
+0.0.0.0 google.la
+0.0.0.0 google.li
+0.0.0.0 google.lk
+0.0.0.0 google.lt
+0.0.0.0 google.lu
+0.0.0.0 google.lv
+0.0.0.0 google.md
+0.0.0.0 google.me
+0.0.0.0 google.mg
+0.0.0.0 google.mk
+0.0.0.0 google.ml
+0.0.0.0 google.mn
+0.0.0.0 google.ms
+0.0.0.0 google.mu
+0.0.0.0 google.mv
+0.0.0.0 google.mw
+0.0.0.0 google.ne
+0.0.0.0 google.net
+0.0.0.0 google.nf
+0.0.0.0 google.nl
+0.0.0.0 google.no
+0.0.0.0 google.nr
+0.0.0.0 google.nu
+0.0.0.0 google.org
+0.0.0.0 google.pl
+0.0.0.0 google.pn
+0.0.0.0 google.ps
+0.0.0.0 google.pt
+0.0.0.0 google.ro
+0.0.0.0 google.rs
+0.0.0.0 google.ru
+0.0.0.0 google.rw
+0.0.0.0 google.sc
+0.0.0.0 google.se
+0.0.0.0 google.sh
+0.0.0.0 google.si
+0.0.0.0 google.sk
+0.0.0.0 google.sm
+0.0.0.0 google.sn
+0.0.0.0 google.so
+0.0.0.0 google.sr
+0.0.0.0 google.st
+0.0.0.0 google.td
+0.0.0.0 google.tg
+0.0.0.0 google.tk
+0.0.0.0 google.tl
+0.0.0.0 google.tm
+0.0.0.0 google.tn
+0.0.0.0 google.to
+0.0.0.0 google.tt
+0.0.0.0 google.us
+0.0.0.0 google.vg
+0.0.0.0 google.vu
+0.0.0.0 google.ws
+0.0.0.0 googleadservices.com
+0.0.0.0 googleapis.com
+0.0.0.0 googleapps.com
+0.0.0.0 googlearth.com
+0.0.0.0 googlebot.com
+0.0.0.0 googlecode.com
+0.0.0.0 googlecommerce.com
+0.0.0.0 googledrive.com
+0.0.0.0 googlee.com
+0.0.0.0 googleearth.com
+0.0.0.0 googlemaps.com
+0.0.0.0 googlepagecreator.com
+0.0.0.0 googlescholar.com
+0.0.0.0 googlesource.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 googleusercontent.com
+0.0.0.0 googlr.com
+0.0.0.0 goolge.com
+0.0.0.0 gooogle.com
+0.0.0.0 gr.youtube.com
+0.0.0.0 gv.com
+0.0.0.0 havecamerawilltravel.plus.google.com
+0.0.0.0 hk.youtube.com
+0.0.0.0 home.plus.google.com
+0.0.0.0 http.plus.google.com
+0.0.0.0 https.plus.google.com
+0.0.0.0 htttp.plus.google.com
+0.0.0.0 ie.youtube.com
+0.0.0.0 igoogle.com
+0.0.0.0 il.youtube.com
+0.0.0.0 imageplus.baidu.com
+0.0.0.0 imap4.plus.google.com
+0.0.0.0 img.youtube.com
+0.0.0.0 in.plus.google.com
+0.0.0.0 in.youtube.com
+0.0.0.0 inetns1.plus.google.com
+0.0.0.0 it.youtube.com
+0.0.0.0 jerry.euro.plus.google.com
+0.0.0.0 jp.youtube.com
+0.0.0.0 keyhole.com
+0.0.0.0 kids.youtube.com
+0.0.0.0 like.com
+0.0.0.0 localguidesconnect.com
+0.0.0.0 m.plus.google.com
+0.0.0.0 m.youtube.com
+0.0.0.0 madewithcode.com
+0.0.0.0 mail.plus.google.com
+0.0.0.0 music.plus.google.com
+0.0.0.0 music.youtube.com
+0.0.0.0 mvd.plus.google.com
+0.0.0.0 mx.youtube.com
+0.0.0.0 news.youtube.com
+0.0.0.0 nl.youtube.com
+0.0.0.0 nz.youtube.com
+0.0.0.0 olivia-wynkoop.plus.google.com
+0.0.0.0 p.youtube.com
+0.0.0.0 panoramio.com
+0.0.0.0 photo.plus.google.com
+0.0.0.0 picasa.com
+0.0.0.0 plus.google.com
+0.0.0.0 plus.l.google.com
+0.0.0.0 plus.sandbox.google.com
+0.0.0.0 plusone.google.com
+0.0.0.0 pop3.plus.google.com
+0.0.0.0 proxy.plus.google.com
+0.0.0.0 s.youtube.com
+0.0.0.0 surf.plus.google.com
+0.0.0.0 there.plus.google.com
+0.0.0.0 tv.youtube.com
+0.0.0.0 tw.youtube.com
+0.0.0.0 uj2myfjsvf2.posts.106298620457610449826.plus.google.com
+0.0.0.0 uk.youtube.com
+0.0.0.0 upload.youtube.com
+0.0.0.0 urchin.com
+0.0.0.0 waze.com
+0.0.0.0 weesnaw.plus.google.com
+0.0.0.0 whatbrowser.org
+0.0.0.0 wildcard-talkgadget-189-178-233-64.l.plus.google.com
+0.0.0.0 withgoogle.com
+0.0.0.0 ww.plus.google.com
+0.0.0.0 www.google.com
+0.0.0.0 www.plus.google.com
+0.0.0.0 www.wwww.plus.google.com
+0.0.0.0 wwwo.plus.google.com
+0.0.0.0 wwww.plus.google.com
+0.0.0.0 youtube.com
+0.0.0.0 youtubeeducation.com
+0.0.0.0 youtubegaming.com
+0.0.0.0 ytimg.com
+
+# === EOF === #
