@@ -31,22 +31,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mintegral.com
 
 
-# === Zoom Meeting === #
-0.0.0.0 blog.zoom.us
-0.0.0.0 explore.zoom.us
-0.0.0.0 investors.zoom.us
-0.0.0.0 marketplace.zoom.us
-0.0.0.0 support.zoom.us
-0.0.0.0 us02web.zoom.us
-0.0.0.0 us03web.zoom.us
-0.0.0.0 us04web.zoom.us
-0.0.0.0 us05web.zoom.us
-0.0.0.0 us06web.zoom.us
-0.0.0.0 web.zoom.us
-0.0.0.0 www.zoom.us
-0.0.0.0 zoom.us
-
-
 # === UC Web === #
 0.0.0.0 blog.ucweb.com
 0.0.0.0 cloud.ucweb.com
@@ -64,57 +48,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ucnews.in
 0.0.0.0 www.ucshare.net
 0.0.0.0 www.ucweb.com
-
-
-## === Wikimedia Foundation === ##
-0.0.0.0 commons.wikimedia.org
-0.0.0.0 doc.wikimedia.org
-0.0.0.0 donate.wikimedia.org
-0.0.0.0 en.planet.wikimedia.org
-0.0.0.0 en.wikibooks.org
-0.0.0.0 en.wikinews.org
-0.0.0.0 en.wikipedia.org
-0.0.0.0 en.wikiquote.org
-0.0.0.0 en.wikisource.org
-0.0.0.0 en.wikiversity.org
-0.0.0.0 en.wikivoyage.org
-0.0.0.0 en.wiktionary.org
-0.0.0.0 foundation.wikimedia.org
-0.0.0.0 hi.wikipedia.org
-0.0.0.0 lists.wikimedia.org
-0.0.0.0 m.wikisource.org
-0.0.0.0 mediawiki.org
-0.0.0.0 meta.wikimedia.org
-0.0.0.0 mr.wikipedia.org
-0.0.0.0 phabricator.wikimedia.org
-0.0.0.0 sa.wikipedia.org
-0.0.0.0 species.wikimedia.org
-0.0.0.0 stats.wikimedia.org
-0.0.0.0 techblog.wikimedia.org
-0.0.0.0 wikibooks.org
-0.0.0.0 wikidata.org
-0.0.0.0 wikimania.wikimedia.org
-0.0.0.0 wikimedia.org
-0.0.0.0 wikimediafoundation.org
-0.0.0.0 wikinews.org
-0.0.0.0 wikipedia.org
-0.0.0.0 wikiquote.org
-0.0.0.0 wikisource.org
-0.0.0.0 wikiversity.org
-0.0.0.0 wikivoyage.org
-0.0.0.0 wiktionary.org
-0.0.0.0 www.mediawiki.org
-0.0.0.0 www.wikibooks.org
-0.0.0.0 www.wikidata.org
-0.0.0.0 www.wikimedia.org
-0.0.0.0 www.wikimediafoundation.org
-0.0.0.0 www.wikinews.org
-0.0.0.0 www.wikipedia.org
-0.0.0.0 www.wikiquote.org
-0.0.0.0 www.wikisource.org
-0.0.0.0 www.wikiversity.org
-0.0.0.0 www.wikivoyage.org
-0.0.0.0 www.wiktionary.org
 
 
 # === Social === #
